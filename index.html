@@ -2,18 +2,38 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Portafolio Personal - José Jesús Moreno Ríos</title>
     <style>
+
+      * {
+        box-sizing:content-box;
+        margin: 0;
+        padding: 0;
+        align-content: center;
+        align-items: center;
+        box-align: center;
+      }
 
       body {
         background-color: #181818;
         background-size: cover;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 1rem;
+        font-family: sans-serif;
       }
+
+      .container {
+        width: 100%;
+        max-width: 400px;
+      }  
 
       .card {
         position: relative;
-        width: 375px;
-        height: 515px;
+        width: 340px;
+        height: 480px;
         background-color: #000;
         display: flex;
         flex-direction: column;
@@ -24,7 +44,7 @@
         cursor: pointer;
         color: white;
         margin-top: 4%;
-        margin-bottom: 70px;
+        margin-bottom: 60px;
         align-items: center;
       }
 
@@ -34,8 +54,8 @@
         inset: 0;
         left: 0px;
         margin: auto;
-        width: 350px;
-        height: 500px;
+        width: 330px;
+        height: 440px;
         border-radius: 10px;
         background: linear-gradient(-45deg, #e81cff 40%, #40c9ff 100% );
         z-index: -10;
@@ -50,12 +70,12 @@
         margin: 0 auto;
         inset: 0;
         background: linear-gradient(-45deg, #fc00ff 40%, #00dbde 100% );
-        transform: translate3d(0, 0, 0) scale(0.95);
+        transform: translate3d(0, 0, 0) scale(0.90);
         filter: blur(35px);
       }
 
       .heading {
-        font-size: 20px;
+        font-size: 18px;
         text-transform: capitalize;
         font-weight: 700;
         font-family: Impact, fantasy;
@@ -63,14 +83,14 @@
       }
 
       .card p:not(.heading) {
-        font-size: 18px;
+        font-size: 16px;
         font-family: Impact, fantasy;
         color: #00FF7F;
         margin: 1px;
       }
 
       .card p:last-child {
-        font-size: 16px;
+        font-size: 14px;
         color: #ff00ff;
         font-weight: 700;
         font-family: Impact, fantasy;
@@ -85,7 +105,7 @@
       }
 
       .card:hover::before {
-        transform: rotate(-90deg) scaleX(1.59) scaleY(0.83);
+        transform: rotate(-90deg) scaleX(1.57) scaleY(0.86);
         align-items: center;
       }
 
@@ -98,10 +118,9 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-left: -47px;
       }
       .example-2 .icon-content {
-        margin: 0 7px;
+        margin: 0 8px;
         position: relative;
       }
       .example-2 .icon-content .tooltip {
@@ -121,7 +140,7 @@
       .example-2 .icon-content:hover .tooltip {
         opacity: 1;
         visibility: visible;
-        top: -40px;
+        top: -45px;
       }
       .example-2 .icon-content a {
         position: relative;
@@ -196,17 +215,18 @@
       }
 
       .circulo {
-        width: 275px;
-        height: 275px;
+        width: 265px;
+        height: 260px;
         border-radius: 50%;
-        margin-bottom: 80px;
+        margin-bottom: 50px;
       }
 
     </style>
   </head>
   <body>
   <center>
-
+  <div class="container">
+    <center>
     <div class="card">
       <img src="mapache-pedro.gif" class="circulo" alt="">
       <p class="heading">
