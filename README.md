@@ -1,87 +1,80 @@
-# 👋 ¡Hola! Soy José Jesús Moreno Rios
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=José%20Jesús%20Moreno&fontSize=70" />
-</p>
+### 👨🏻‍💻 JOSÉ JESÚS MORENO RÍOS 👨🏻‍💻
+### ✨ Estudiante de Lic. en Informática para la Gestión Educativa y Empresarial ✨
 
-### 🎓 Estudiante de Licenciatura en Informática para la Gestión Educativa y Empresarial
-Apasionado por explorar el mundo de la tecnología, especialmente en **diseño web, redes, programación y diseño de aplicaciones móviles.**
 
-📍 **25 años** | 💡 **Curioso por naturaleza** | 🎨 **Creativo por elección**
+</div>
 
 ---
 
-## 🚀 Enfoque Actual & Tecnologías
+### 🚀 Sobre mí
+¡Hola! Soy estudiante de la Lic. en Informática para la Gestión Educativa y Empresarial
+Tengo 25 años y me apasiona explorar el mundo de la tecnología, en especial el diseño web, 
+las redes, la programación y el diseño de aplicaciones móviles.
 
-### 💻 Desarrollo Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+Mi enfoque actual está más orientado hacia el diseño web, trabajando con tecnologías como 
+HTML, CSS y JavaScript, aunque también tengo experiencia con lenguajes como Python, Java, C y C++. 
+He complementado mis estudios con varios cursos, incluyendo temas de "Introducción a la Ciberseguridad".
 
-### 🛠️ Otros lenguajes que manejo
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-</p>
+Fuera del ámbito tecnológico, disfruto leer un poco de poesía, jugar ajedrez, dibujar y 
+escuchar música, especialmente Progressive House. Me considero una persona curiosa, creativa y 
+siempre con ganas de aprender algo nuevo.
 
----
-
-## 📚 Certificaciones & Cursos
-* 🎓 **Introducción a la Ciberseguridad** - Cisco Networking Academy
-* 💻 **Desarrollo Web Frontend** - Autodidacta + Cursos en línea
-* 🔐 **Seguridad Informática Básica**
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=josemor12&color=blueviolet&style=for-the-badge&label=Perfil+visto"> 
+  <img src="https://img.shields.io/github/followers/josemor12?style=for-the-badge&label=S%C3%ADgueme&logo=github">
+  <br>
+</div>
 
 ---
 
-## 🎨 Más allá del código
-<p align="center">
-  📖 <b>Poesía:</b> Donde las palabras encuentran ritmo | ♟️ <b>Ajedrez:</b> Estrategia y táctica <br>
-  ✏️ <b>Dibujo:</b> Expresando creatividad | 🎧 <b>Progressive House:</b> Mi banda sonora
-</p>
+### 🛠️ Mi Stack Tecnológico
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Escuchando-Progressive_House-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-</p>
+| **Frontend & Design** | **Backend & Core** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"> |
 
 ---
 
-## 📊 Mi GitHub en números
-<p align="center">
+### 📊 Estadísticas Generales
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemor12&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemor12&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
+</div>
 
 ---
 
-## 🎯 Proyectos en progreso
-* 🌟 **[Portafolio Personal](https://josemor12.github.io)**: Diseño web responsivo con React.
-* 📱 **App móvil educativa**: Para gestión de aprendizaje.
-* ♟️ **Ajedrez online**: Con funciones de aprendizaje.
+### 💻 Proyectos Destacados
+*Explora mis trabajos más importantes directamente con estas tarjetas interactivas:*
+
+<div align="center">
+  <a href="https://github.com/josemor12/PortafolioPersonal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=PortafolioPersonal&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/josemor12/Alerta-Vecinal-3.0">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=Alerta-Vecinal-3.0&theme=radical&show_owner=true" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/josemor12/FloresAmarillas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=FloresAmarillas&theme=radical&show_owner=true" />
+  </a>
+</div>
 
 ---
 
-## 📱 Conectemos
-<p align="center">
-  <a href="https://github.com/josemor12"><img src="https://img.shields.io/badge/GitHub-@josemor12-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 📸 Previsualización
+<div align="center">
+<div align="center"> <table> <tr> <td> <img src="https://github.com/user-attachments/assets/14222893-532f-4ed6-b347-26476d5287e9" alt="Captura de pantalla de mi proyecto 1" width="100%" /> </td> </tr> </table>
+
+
+<table> <tr> <td> <img src="https://github.com/user-attachments/assets/787cfeb8-1389-491b-ba23-3d6ffee6eb97" alt="Captura de pantalla de mi proyecto 2" width="100%" /> </td> </tr> </table>
+
+
+<table> <tr> <td> <img src="https://github.com/user-attachments/assets/70e3ba49-d888-46cc-bf45-157f9a70741b" alt="Captura de pantalla de mi proyecto 3" width="100%" /> </td> </tr> </table>
+</div>
 
 ---
-
-## 🧠 Mi filosofía
-> "Soy un eterno aprendiz, convencido de que cada línea de código, cada diseño y cada proyecto es una oportunidad para crecer. Me apasiona combinar **lógica y creatividad**."
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josemor12&color=blueviolet&style=flat-square&label=Perfil+visto" />
-  <img src="https://img.shields.io/github/followers/josemor12?style=social&label=S%C3%ADgueme" />
-</p>
-
-<p align="center">
-  <sub>Última actualización: Diciembre 2025 | Hecho con ❤️ por José Jesús</sub>
-</p>
