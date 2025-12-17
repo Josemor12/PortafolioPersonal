@@ -43,7 +43,14 @@ https://img.shields.io/badge/Progressive_House-1DB954?style=flat-square&logo=spo
 
 </div>
 📱 Conectemos
-<div align="center"><a href="https://github.com/josemor12" target="_blank"> <img src="https://img.shields.io/badge/GitHub-@josemor12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a><a href="https://www.linkedin.com/in/tu-perfil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a><a href="https://twitter.com/tu_usuario" target="_blank"> <img src="https://img.shields.io/badge/Twitter-@tu_usuario-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a><a href="mailto:tuemail@ejemplo.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a><a href="https://instagram.com/tu_usuario" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@tu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a></div>
+<div align="center">
+https://img.shields.io/badge/GitHub-@josemor12-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-@tu_usuario-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Email-Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Instagram-@tu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+</div>
 🌐 Portafolio Digital
 🚀 Explora mis proyectos: josemor12.github.io
 Un espacio donde mi código, diseño y creatividad se encuentran.
@@ -58,7 +65,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=josemor12&layout=
 🌟 Portafolio Personal
 Diseño web responsivo con enfoque en experiencia de usuario y estética moderna.
 Tecnologías: HTML5, CSS3, JavaScript, React
-Ver en vivo: https://josemor12.github.io
+→ Ver en vivo
 
 🔜 Próximos proyectos:
 📱 App móvil educativa - Para gestión de aprendizaje
@@ -90,6 +97,11 @@ Estoy abierto a:
 Siéntete libre de explorar mis repositorios y dejar una estrella si algo te inspira.
 
 "La creatividad es inteligencia divirtiéndose" – Albert Einstein
+
+</div>
+<div align="center">
+🎵 Actualmente escuchando
+https://spotify-readme.vercel.app/api/spotify
 
 </div>
 📄 Este README se actualiza con mi crecimiento. Última actualización: Diciembre 2024
