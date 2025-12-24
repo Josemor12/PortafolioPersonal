@@ -39,10 +39,11 @@ siempre con ganas de aprender algo nuevo.
 ---
 
 ### 📊 Estadísticas Generales
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemor12&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemor12&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=josemor12&show_icons=true&theme=radical" height="200" width="500" />
+  <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josemor12&layout=compact&theme=radical" height="200" width="500" />
+</p>
 
 ---
 
@@ -52,7 +53,7 @@ siempre con ganas de aprender algo nuevo.
 <div align="center">
   <a href="https://github.com/josemor12/PortafolioPersonal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=PortafolioPersonal&theme=radical&show_owner=true" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/josemor12/Alerta-Vecinal-3.0">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=Alerta-Vecinal-3.0&theme=radical&show_owner=true" />
   </a>
