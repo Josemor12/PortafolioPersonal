@@ -59,11 +59,6 @@ siempre con ganas de aprender algo nuevo.
   </a>
 </div>
 <br />
-<div align="center">
-  <a href="https://github.com/josemor12/FloresAmarillas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=FloresAmarillas&theme=radical&show_owner=true" />
-  </a>
-</div>
 
 ---
 
