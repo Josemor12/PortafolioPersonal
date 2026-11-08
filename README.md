@@ -47,21 +47,6 @@ siempre con ganas de aprender algo nuevo.
 
 ---
 
-### 💻 Proyectos Destacados
-*Explora mis trabajos más importantes directamente con estas tarjetas interactivas:*
-
-<div align="center">
-  <a href="https://github.com/josemor12/PortafolioPersonal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=PortafolioPersonal&theme=radical&show_owner=true" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/josemor12/Alerta-Vecinal-3.0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josemor12&repo=Alerta-Vecinal-3.0&theme=radical&show_owner=true" />
-  </a>
-</div>
-<br />
-
----
-
 ### 📸 Previsualización
 <div align="center">
 <div align="center"> <table> <tr> <td> <img src="https://github.com/user-attachments/assets/14222893-532f-4ed6-b347-26476d5287e9" alt="Captura de pantalla de mi proyecto 1" width="100%" /> </td> </tr> </table>
